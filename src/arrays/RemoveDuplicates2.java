@@ -16,7 +16,6 @@ public class RemoveDuplicates2 {
         int result = remove(A);
         System.out.println("Duplicated array count is :" + result);
 
-
     }
 
     public static int remove(int[] A) {
