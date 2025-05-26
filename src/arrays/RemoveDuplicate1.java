@@ -9,7 +9,6 @@ public class RemoveDuplicate1 {
             System.out.print(arr[i] + " ");
         }
 
-
     }
 
     static int remove(int[] arr) {
